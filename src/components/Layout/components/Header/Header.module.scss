@@ -1,0 +1,13 @@
+.wrapper{
+    // background:red;
+    height:var(--default_layout-header-height);
+    box-shadow: 0px 1px 1px rgb(0 0 0 / 12%);
+    width: 100%;
+}
+.inner{
+    height:100%;
+    max-width: var(--container-width);
+    width: 100%;
+    background-color:#ccc;
+    margin:0 auto;
+}
